@@ -1,1 +1,1 @@
-# Syntecxhub_Student_Performance_Analysis
+# Student_Performance_Analysis
